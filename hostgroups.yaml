@@ -1,0 +1,15 @@
+dev:
+  - tckbesdev1.ugent.be
+
+tst:
+  - tckbestst1.ugent.be
+  - tckbestst2.ugent.be
+  - tckbestst3.ugent.be
+
+qas:
+
+prd:
+  - tckbesprd1.ugent.be
+  - tckbesprd2.ugent.be
+  - tckbesprd3.ugent.be
+
