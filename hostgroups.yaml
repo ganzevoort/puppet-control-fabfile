@@ -1,15 +1,27 @@
 dev:
+  - mcdev
+
+
+esdev:
   - tckbesdev1.ugent.be
 
-tst:
+estst:
   - tckbestst1.ugent.be
   - tckbestst2.ugent.be
   - tckbestst3.ugent.be
 
-qas:
-
-prd:
+esprd:
   - tckbesprd1.ugent.be
   - tckbesprd2.ugent.be
   - tckbesprd3.ugent.be
+
+mcdev:
+  - tckbmcdev1.ugent.be
+
+mctst:
+  - tckbmctst1.ugent.be
+
+mcprd:
+  - tckbmcprd1.ugent.be
+  - tckbmcprd2.ugent.be
 
